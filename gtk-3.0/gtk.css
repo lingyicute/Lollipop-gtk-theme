@@ -2603,7 +2603,7 @@ radio {
 check:checked, check:indeterminate,
 radio:checked,
 radio:indeterminate {
-  color: #0F9D58;
+  color: #1A73E8;
 }
 
 check:checked:disabled, check:indeterminate:disabled,
@@ -2746,7 +2746,7 @@ treeview.view check:disabled, treeview.view check:hover:disabled, treeview.view 
 }
 
 treeview.view check:checked, treeview.view check:indeterminate, treeview.view check:hover:checked, treeview.view check:hover:indeterminate, treeview.view check:selected:checked, treeview.view check:selected:indeterminate, treeview.view radio:checked, treeview.view radio:indeterminate, treeview.view radio:hover:checked, treeview.view radio:hover:indeterminate, treeview.view radio:selected:checked, treeview.view radio:selected:indeterminate {
-  color: #0F9D58;
+  color: #1A73E8;
 }
 
 treeview.view check:checked:disabled, treeview.view check:indeterminate:disabled, treeview.view check:hover:checked:disabled, treeview.view check:hover:indeterminate:disabled, treeview.view check:selected:checked:disabled, treeview.view check:selected:indeterminate:disabled, treeview.view radio:checked:disabled, treeview.view radio:indeterminate:disabled, treeview.view radio:hover:checked:disabled, treeview.view radio:hover:indeterminate:disabled, treeview.view radio:selected:checked:disabled, treeview.view radio:selected:indeterminate:disabled {

@@ -3082,7 +3082,7 @@ radio {
 check:checked, check:indeterminate,
 radio:checked,
 radio:indeterminate {
-  color: #0F9D58;
+  color: #1A73E8;
 }
 
 check:checked:disabled, check:indeterminate:disabled,
